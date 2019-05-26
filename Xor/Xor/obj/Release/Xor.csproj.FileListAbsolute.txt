@@ -1,0 +1,7 @@
+c:\users\time\source\repos\Xor\Xor\bin\Release\Xor.exe.config
+c:\users\time\source\repos\Xor\Xor\bin\Release\Xor.exe
+c:\users\time\source\repos\Xor\Xor\bin\Release\Xor.pdb
+c:\users\time\source\repos\Xor\Xor\obj\Release\Xor.csproj.CoreCompileInputs.cache
+c:\users\time\source\repos\Xor\Xor\obj\Release\Xor.exe
+c:\users\time\source\repos\Xor\Xor\obj\Release\Xor.pdb
+c:\Users\TIME\source\repos\Xor\Xor\obj\Release\Xor.csprojAssemblyReference.cache
